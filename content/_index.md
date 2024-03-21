@@ -8,5 +8,12 @@ menu = "Home"
 
 <!-- # East Block Test Website -->
 
-Hello and welcome to our website! We are East Block: a Czech Women's ultimate team, national champions and contenders at the highest level of European ultimate at EUCF.
+# Hello and welcome!
 
+We are **East Block** - a Czech women's ultimate frisbee team, national champions and contenders at the highest level of European ultimate at EUCF.
+
+## Wanna see us play?
+
+We've been lucky to get a lot of attention on stream from ulti.tv in 2023. You can start with the Sprint Invite final against BDF Shout, the reigning EUCF champions.
+
+{{< youtube sr6nbCnoBSs >}}

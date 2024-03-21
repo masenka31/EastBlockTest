@@ -4,7 +4,7 @@ title = 'East Block Ultimate'
 theme = "ananke"
 
 [params]
-  site_logo = "images/logo_white_wo_bg_lynx.png"
+  site_logo = "images/logo50px.png"
   featured_image = "images/nationals2023.png"
   ananke_socials = [
     { name = "instagram", url = "https://www.instagram.com/eb_ultimate/", label = "East Block"},
@@ -17,13 +17,31 @@ theme = "ananke"
   weight = 1
 
 [[menu.main]]
+  identifier = "eucf2024/_index"
+  name = "Road to EUCF 2024"
+  url = "/eucf2024/"
+  weight = 2
+
+[[menu.main]]
   identifier = "news/_index"
   name = "News"
   url = "/news/"
-  weight = 2
+  weight = 3
 
 [[menu.main]]
   identifier = "about/_index"
   name = "About"
   url = "/about/"
-  weight = 3
+  weight = 4
+
+[[menu.main]]
+  identifier = "team/_index"
+  name = "Team"
+  url = "/team"
+  weight = 5
+
+[[menu.main]]
+  identifier = "contact/_index"
+  name = "Contact"
+  url = "/contact"
+  weight = 6
