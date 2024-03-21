@@ -5,6 +5,7 @@ theme = "ananke"
 
 [params]
   site_logo = "images/logo_white_wo_bg_lynx.png"
+  featured_image = "images/nationals2023.png"
   ananke_socials = [
     { name = "instagram", url = "https://www.instagram.com/eb_ultimate/", label = "East Block"},
   ]
