@@ -1,7 +1,7 @@
 +++
 title = 'East Block Test'
 date = 2024-03-20T17:52:38+01:00
-draft = true
+draft = false
 featured_image = '/img/nationals2023.jpg'
 menu = "Home"
 +++
