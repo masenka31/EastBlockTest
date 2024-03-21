@@ -1,10 +1,10 @@
-baseURL = "https://github.com/masenka31/EastBlockTest"
+baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'East Block Ultimate'
 theme = "ananke"
 
 [params]
-  site_logo = "img/logo_white_wo_bg_lynx.png"
+  site_logo = "images/logo_white_wo_bg_lynx.png"
   ananke_socials = [
     { name = "instagram", url = "https://www.instagram.com/eb_ultimate/", label = "East Block"},
   ]
