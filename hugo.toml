@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'https://eastblocktest.pages.dev'
 languageCode = 'en-us'
 title = 'East Block Ultimate'
 theme = "ananke"
