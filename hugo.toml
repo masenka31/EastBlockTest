@@ -1,0 +1,28 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'East Block Ultimate'
+theme = "ananke"
+
+[params]
+  site_logo = "img/logo_white_wo_bg_lynx.png"
+  ananke_socials = [
+    { name = "instagram", url = "https://www.instagram.com/eb_ultimate/", label = "East Block"},
+  ]
+
+[[menu.main]]
+  identifier = "_index"
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "news/_index"
+  name = "News"
+  url = "/news/"
+  weight = 2
+
+[[menu.main]]
+  identifier = "about/_index"
+  name = "About"
+  url = "/about/"
+  weight = 3
