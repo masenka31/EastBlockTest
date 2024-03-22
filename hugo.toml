@@ -5,6 +5,7 @@ theme = "ananke"
 
 [params]
   site_logo = "images/logo50px.png"
+  favicon = "images/favicon2.jpeg"
   featured_image = "images/nationals2023.png"
   ananke_socials = [
     { name = "instagram", url = "https://www.instagram.com/eb_ultimate/", label = "East Block"},
@@ -45,3 +46,19 @@ theme = "ananke"
   name = "Contact"
   url = "/contact"
   weight = 6
+
+# for brands
+[[params.plugins.css]]
+link = "plugins/font-awesome/v6/brands.css"
+# load all icons except brands
+[[params.plugins.css]]
+link = "plugins/font-awesome/v6/icons.css"
+# regular icons font family
+[[params.plugins.css]]
+link = "plugins/font-awesome/v6/regular.css"
+# solid icons font family
+[[params.plugins.css]]
+link = "plugins/font-awesome/v6/solid.css"
+
+[[imports]]
+path = "github.com/gethugothemes/hugo-modules/icons/font-awesome"

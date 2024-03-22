@@ -7,6 +7,8 @@ featured_image = '/images/nationals2023.JPG'
 
 ## Get in touch! 
 
+<i class="fa-solid fa-search"></i>
+
 {{< left-align >}}
 
 **East Block Team**
@@ -31,9 +33,9 @@ featured_image = '/images/nationals2023.JPG'
 
 ![](/images/hug.JPG)
 
-## Wanna join us?
+## Wanna join the team?
 
-The tryout call is closed already as we've had our first tryouts with all players and our new coaches: Valerio Iani and Lukáš Barborik.
+The tryout call is closed already as we've had our first tryouts with all players and our new coaches.
 
-If you want to play with us, get in touch on Instagram and look out for a new tryout season. We will post a simple tryouts questionaire to see who's interested in playing in the next season.
+Want to play with us next season? Follow us on Instagram, or get in touch privately with the captains. We will publish a short questionaire after the season where you can apply :)
 
