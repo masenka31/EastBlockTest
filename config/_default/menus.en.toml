@@ -1,0 +1,29 @@
+[[main]]
+  identifier = "eucf2024/_index"
+  name = "EUCF 2024"
+  pageRef = "/eucf2024/"
+  weight = 2
+
+[[main]]
+  identifier = "news/_index"
+  name = "News"
+  pageRef = "/news/"
+  weight = 3
+
+[[main]]
+  identifier = "about/_index"
+  name = "About"
+  pageRef = "/about/"
+  weight = 4
+
+[[main]]
+  identifier = "team/_index"
+  name = "Team"
+  pageRef = "/team"
+  weight = 5
+
+[[main]]
+  identifier = "contact/_index"
+  name = "Contact"
+  pageRef = "/contact"
+  weight = 6

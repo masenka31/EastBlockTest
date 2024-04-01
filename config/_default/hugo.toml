@@ -2,6 +2,8 @@ baseURL = 'https://eastblocktest.pages.dev'
 languageCode = 'en-us'
 title = 'East Block Ultimate'
 theme = "ananke"
+DefaultContentLanguage = "en"
+
 
 [params]
   site_logo = "images/logo50px.png"
@@ -12,41 +14,17 @@ theme = "ananke"
   ]
   custom_css = ["custom.scss"]
 
-[[menu.main]]
-  identifier = "_index"
-  name = "Home"
-  url = "/"
-  weight = 1
+[languages]
+  [languages.en]
+    title = "East Block"
+    weight = 1
+    contentDir = "content/en"
+    # languageDirection = 'rtl' for Right-To-Left languages
+  [languages.cz]
+    title = "Východní Blok"
+    weight = 2
+    contentDir = "content/cz"
 
-[[menu.main]]
-  identifier = "eucf2024/_index"
-  name = "EUCF 2024"
-  url = "/eucf2024/"
-  weight = 2
-
-[[menu.main]]
-  identifier = "news/_index"
-  name = "News"
-  url = "/news/"
-  weight = 3
-
-[[menu.main]]
-  identifier = "about/_index"
-  name = "About"
-  url = "/about/"
-  weight = 4
-
-[[menu.main]]
-  identifier = "team/_index"
-  name = "Team"
-  url = "/team"
-  weight = 5
-
-[[menu.main]]
-  identifier = "contact/_index"
-  name = "Contact"
-  url = "/contact"
-  weight = 6
 
 # for brands
 [[params.plugins.css]]

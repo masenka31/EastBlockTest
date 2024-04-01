@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Východní Blok</title>
+    <link>http://localhost:1313/cz/en/news/</link>
+    <description>Recent content in News on Východní Blok</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cz</language>
+    <lastBuildDate>Thu, 21 Mar 2024 08:36:41 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/cz/en/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tryouts 2024</title>
+      <link>http://localhost:1313/cz/en/news/tryouts2024/</link>
+      <pubDate>Thu, 21 Mar 2024 08:36:41 +0100</pubDate>
+      <guid>http://localhost:1313/cz/en/news/tryouts2024/</guid>
+      <description>&lt;p&gt;Our first tryout took place in Prosetin. There were a lot of firsts: We got together for the first time of the season, first time outside, first time with new coaches. It was a productive weekend, working of motion offence and re-learning to not get lost in a lobster trap and avoid middle-school passes.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

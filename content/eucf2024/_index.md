@@ -1,5 +1,6 @@
 +++
 title = 'Road to EUCF 2024'
+menu = 'EUCF 2024'
 date = 2024-03-21T23:11:08+01:00
 draft = false
 featured_image = '/images/nationals2023.JPG'
@@ -9,25 +10,25 @@ featured_image = '/images/nationals2023.JPG'
 
 {{< timeline2 >}}
 
-{{< timeline-entry2 title="Vienna Spring Break" date="20. 4. 2024" >}}
+{{< timeline-entry2 title="Vienna Spring Break" date="27. 4. 2024" >}}
 
 We are sending a combination of experienced and young players, who can experience an international tournament, maybe even for the first time.
 
 {{< /timeline-entry2 >}}
 
-{{< timeline-entry2 title="Elite Invite Leuven" date="11. 5. 2024" >}}
+{{< timeline-entry2 title="Elite Invite Leuven" date="10. 5. 2024" >}}
 
 Our first Elite Invite. Get ready for a hyped team featuring the best players East Block can offer.
 
 {{< /timeline-entry2 >}}
 
-{{< timeline-entry2 title="Windmill" date="15. 6. 2024">}}
+{{< timeline-entry2 title="Windmill" date="14. 6. 2024">}}
 
 First ever Windmill for East Block. Ready to go fully international and have loads of fun!
 
 {{< /timeline-entry2 >}}
 
-{{< timeline-entry2 title="Summer Invite Trnava" date="10. 8. 2024" >}}
+{{< timeline-entry2 title="Summer Invite Trnava" date="17. 8. 2024" >}}
 
 The last tournament before EUCF. Ready to roll.
 

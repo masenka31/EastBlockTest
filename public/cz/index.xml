@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>East Block Test on Východní Blok</title>
+    <link>http://localhost:1313/cz/</link>
+    <description>Recent content in East Block Test on Východní Blok</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cz</language>
+    <lastBuildDate>Thu, 21 Mar 2024 08:36:41 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/cz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tryouty 2024</title>
+      <link>http://localhost:1313/cz/news/tryouts2024/</link>
+      <pubDate>Thu, 21 Mar 2024 08:36:41 +0100</pubDate>
+      <guid>http://localhost:1313/cz/news/tryouts2024/</guid>
+      <description>&lt;p&gt;První tryouty se konaly v Prosetíně. Čekalo nás spousta poprvé &amp;ndash; poprvé pohromadě na další sezónu, poprvé venku, poprvé s novými trenéry. Víkend to byl produktivní, pracovali jsme s Valeriem na motion offence a učily se, jak přehodnotit spoustu konceptů, které o frisbee známe a aplikujeme bez přemýšlení.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
