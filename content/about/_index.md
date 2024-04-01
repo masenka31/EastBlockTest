@@ -26,3 +26,26 @@ The hype got real next year. With some new additions to the roster, the buzz has
 
 {{< /text-justify >}}
 
+{{< timeline-full >}}
+
+{{< timeline-entry title="EUCF 2023" >}}
+
+Our road to EUCF 2023 started with just a decision: this year, we should do it. We took on Tomas as a coach, Ted as an assistent coach and BD became the captain for the last season.
+
+{{< /timeline-entry >}}
+
+{{< timeline-entry title="First outdoor gold medal" >}}
+
+The roster for the 2023 Czech nationals did not look too superb. With a lot of players missing and a lot of injuries, two young players on their first ever 7v7 tournament, we had to work hard. But, we delivered. In the finals against 3SB, for the first time ever, we were able to beat them to the gold. In a tough came of only a handful of breaks, under the scorching sun, East Block prevailed and took the first outdoors gold to the collection.
+
+{{< /timeline-entry >}}
+
+
+{{< timeline-entry title="The Beginning">}}
+
+The East Block team was founded in ....
+
+{{< /timeline-entry >}}
+
+
+{{< /timeline-full >}}

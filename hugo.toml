@@ -10,6 +10,7 @@ theme = "ananke"
   ananke_socials = [
     { name = "instagram", url = "https://www.instagram.com/eb_ultimate/", label = "East Block"},
   ]
+  custom_css = ["custom.scss"]
 
 [[menu.main]]
   identifier = "_index"
@@ -19,7 +20,7 @@ theme = "ananke"
 
 [[menu.main]]
   identifier = "eucf2024/_index"
-  name = "Road to EUCF 2024"
+  name = "EUCF 2024"
   url = "/eucf2024/"
   weight = 2
 

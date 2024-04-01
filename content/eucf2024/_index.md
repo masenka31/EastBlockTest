@@ -7,16 +7,37 @@ featured_image = '/images/nationals2023.JPG'
 
 # Tournaments
 
-{{< text-justify >}}
+{{< timeline2 >}}
 
-- Vienna Spring Break
-- Elite Invite, Leuven
-- Windmill, Amsterdam
-- Summer Invite, Trnava
-- EUCF
+{{< timeline-entry2 title="Vienna Spring Break" date="20. 4. 2024" >}}
 
-{{< /text-justify >}}
+We are sending a combination of experienced and young players, who can experience an international tournament, maybe even for the first time.
 
-# Roster
+{{< /timeline-entry2 >}}
 
-TBD
+{{< timeline-entry2 title="Elite Invite Leuven" date="11. 5. 2024" >}}
+
+Our first Elite Invite. Get ready for a hyped team featuring the best players East Block can offer.
+
+{{< /timeline-entry2 >}}
+
+{{< timeline-entry2 title="Windmill" date="15. 6. 2024">}}
+
+First ever Windmill for East Block. Ready to go fully international and have loads of fun!
+
+{{< /timeline-entry2 >}}
+
+{{< timeline-entry2 title="Summer Invite Trnava" date="10. 8. 2024" >}}
+
+The last tournament before EUCF. Ready to roll.
+
+{{< /timeline-entry2 >}}
+
+{{< timeline-entry2 title="EUCF" date="28. 9. 2024" >}}
+
+This is it. Can we beat our previous high and become a TOP 5 European team?
+
+{{< /timeline-entry2 >}}
+
+{{< /timeline2 >}}
+
