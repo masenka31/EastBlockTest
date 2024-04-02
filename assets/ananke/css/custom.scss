@@ -304,6 +304,7 @@ $textColor: white;
 
 	.nav-links a {
 		color: $textColor; // Choose a contrasting text color
+		font-size: 1.5rem;
 		padding: 1rem; // Padding for menu items
 		text-decoration: none; // Remove underline from links
 		display: block; // Make the link fill the width for a better touch target
@@ -327,7 +328,7 @@ $textColor: white;
 }
 
 .ananke-socials a .icon svg {
-	width: 2rem;
+	width: 2.5rem;
 	height: auto;
 }
 

@@ -222,6 +222,7 @@ body:not(header) a {
     z-index: 100; }
   .nav-links a {
     color: white;
+    font-size: 1.5rem;
     padding: 1rem;
     text-decoration: none;
     display: block; }
@@ -237,7 +238,7 @@ body:not(header) a {
   fill: currentColor; }
 
 .ananke-socials a .icon svg {
-  width: 2rem;
+  width: 2.5rem;
   height: auto; }
 
 .ananke-socials a:hover {
