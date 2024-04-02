@@ -13,6 +13,7 @@ DefaultContentLanguage = "en"
     { name = "instagram", url = "https://www.instagram.com/eb_ultimate/", label = "East Block"},
   ]
   custom_css = ["custom.scss"]
+  background_color = "navy"
 
 [languages]
   [languages.en]
