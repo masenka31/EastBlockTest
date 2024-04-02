@@ -13,7 +13,7 @@ featured_image = '/images/nationals2023.JPG'
 **East Block tým**
 
 - Instagram: [@eb_ultimate](https://www.instagram.com/eb_ultimate)
-- email: info@ebultimate.com
+- email: eastblockultimate@gmail.com
 
 **Kristýna Tlustá (kapitánka)**
 - Instagram: [@kristyna_tlusta](https://www.instagram.com/kristyna_tlusta)

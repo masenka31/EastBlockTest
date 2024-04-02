@@ -170,33 +170,31 @@ $timeline-color2: #17c728;
 // New timeline code
 
 #timeline2 {
-	border-left: 3px solid $primary-color;
-	padding: 0 30px;
-	margin-left: 185px;
+	border-left: 2px solid $primary-color;
+	padding: 0 20px;
+	margin-left: 150px;
 
-	@media (max-width: 767px) {
+	@media (max-width: 768px) {
 		margin-left: 0;
 		padding-right: 0;
 	}
 
 	.item {
 		position: relative;
-		margin-bottom: 40px;
+		margin-bottom: 20px;
 
 		// Insert your SVG as a background image for the .icon element
 		icon {
-			position: absolute;
+			position: relative;
 			background-size: contain; // Ensures the SVG fits nicely within the div
 		}
 
 		&::before {
 			content: '';
 			position: absolute;
-			top: 0px; // Adjust as needed to position the icon vertically
-			left: -10%; // Centers the icon on the vertical line
-			transform: translateX(-50%); // This ensures the icon is centered regardless of its size
-			width: 30px; // Set the width of the icon
-			height: 30px; // Set the height of the icon
+			left: -30px; // Centers the icon on the vertical line
+			width: 20px; // Set the width of the icon
+			height: 20px; // Set the height of the icon
 			background: url('/icons/calendar.svg') no-repeat center center;
 			background-size: contain;
 			z-index: 2; // Make sure this layer is above the vertical line
@@ -205,11 +203,10 @@ $timeline-color2: #17c728;
 		&::after {
 			content: '';
 			position: absolute;
-			top: -3px; // Align with the top of the icon
-			left: -10%; // Center horizontally with the border line
-			transform: translateX(-50%); // Center horizontally
-			width: 40px; // Match the width of the border line
-			height: 40px; // Match the height of the icon
+			left: -30px; // Center horizontally with the border line
+			top: -5px; // Center horizontally with the border line
+			width: 30px; // Match the width of the border line
+			height: 30px; // Match the height of the icon
 			background: $bg-body; // Color of your background to cover the line
 			z-index: 1; // Layered below the icon, above the line
 		}
@@ -217,13 +214,11 @@ $timeline-color2: #17c728;
 
 	.tournament {
 		color: $primary-color;
-		// border-bottom: 3px solid $primary-color;
 	}
 
 	.info {
 		position: absolute;
-		// border-bottom: 3px solid $primary-color;
-		left: -185px;
+		left: -130px;
 		top: 0;
 		font-size: 1rem;
 
@@ -231,14 +226,14 @@ $timeline-color2: #17c728;
 			color: $primary-color;
 		}
 
-		@media (max-width: 768px) {
+		@media (max-width: 767px) {
 			position: static;
-			margin-bottom: 1rem;
+			margin-bottom: 0.8rem;
 		}
 	}
 
 	.description {
-		font-size: 0.94rem;
+		font-size: 0.95rem;
 	}
 }
 
@@ -252,4 +247,93 @@ body:not(header) a {
 	&:hover {
 		text-decoration-color: #00a9f1;
 	}
+}
+
+// Hamburger menu
+
+$mobileBreakpoint: 678px; // Mobile breakpoint
+$textColor: white;
+
+// Hamburger menu styles
+
+.menu-btn {
+	display: none;
+	color: white;
+	font-size: 2em;
+}
+
+.nav-links {
+	display: flex;
+	justify-content: space-between;
+	// margin-top: 1rem;
+	// vertical-align: middle;
+}
+
+@media (max-width: $mobileBreakpoint) {
+
+	.menu-btn {
+		display: block;
+		color: $bgColor;
+		font-size: 3em;
+		cursor: pointer;
+		position: absolute;
+		right: 1rem; // Adjust for right spacing
+		top: 1rem; // Adjust for top spacing
+		z-index: 1000; // Ensure it's above other elements
+	}
+
+	.nav-links {
+		position: fixed;
+		top: 0;
+		right: 0;
+		bottom: 0;
+		width: 170px; // Increased width for longer names
+		// background-color: rgba($primary-color, 0.95); // Semi-transparent background
+		background-color: $primary-color; // Semi-transparent background
+		flex-direction: column;
+		align-items: flex-start;
+		justify-content: center;
+		transform: translateX(100%); // Start off the screen to the right
+		transition: transform 0.3s ease-out;
+		padding: 1rem; // Padding inside the menu
+		box-sizing: border-box; // Ensure padding is included in width
+		display: flex; // Make sure this is not "none"
+		z-index: 100; // Ensure it's above other elements
+	}
+
+	.nav-links a {
+		color: $textColor; // Choose a contrasting text color
+		padding: 1rem; // Padding for menu items
+		text-decoration: none; // Remove underline from links
+		display: block; // Make the link fill the width for a better touch target
+	}
+
+	// Show the nav-links when menu-btn is clicked
+	.menu-active {
+		transform: translateX(0);
+	}
+
+}
+
+.ananke-socials {
+	display: flex;
+	align-items: center;
+  }
+
+.ananke-socials a {
+	color: #BABABA;
+	fill: currentColor;
+}
+
+.ananke-socials a .icon svg {
+	width: 2rem;
+	height: auto;
+}
+
+.ananke-socials a:hover {
+	color: rgb(107, 114, 128);
+}
+
+.link-transition:hover .new-window {
+	opacity: 1;
 }

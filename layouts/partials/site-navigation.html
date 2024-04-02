@@ -1,0 +1,72 @@
+{{ $socials := where (partialCached "func/socials/Get" "socials/Get") "follow" "!=" false }}
+
+<nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex justify-between items-center center">
+    <a href="{{ .Site.Home.RelPermalink }}" class="f3 fw2 hover-white no-underline white-90 dib">
+      {{ with .Site.Params.site_logo }}
+      <img src="{{ relURL . }}" class="w100 mw5-ns" alt="{{ $.Site.Title }}" />
+      {{ else }}
+      {{ .Site.Title }}
+      {{ end }}
+    </a>
+
+    <nav>
+      {{ if .Site.Menus.main }}
+      <div class="menu-btn">
+        <div class="dib">☰</div>
+      </div>
+      <div class="nav-links">
+        {{ if .IsTranslated }}
+        {{ range .Translations }}
+        <a class="link hover-white white-90 no-underline f5 f4-ns pr4 pr3-m pt1" href="{{ .RelPermalink }}">{{ .Lang }}</a>
+        {{ end}}
+        {{ end }}
+
+        {{ range .Site.Menus.main }}
+        <a class="link hover-white white-90 no-underline f5 f4-ns pr4 pr3-m pt1" href="{{ .URL }}">
+          {{ .Name }}
+        </a>
+        {{ end }}
+
+
+        <script>
+          var menuBtn = document.querySelector('.menu-btn');
+          var navLinks = document.querySelector('.nav-links');
+
+          document.addEventListener('DOMContentLoaded', function () {
+            var navLinks = document.querySelector('.nav-links');
+            var menuBtn = document.querySelector('.menu-btn');
+
+            menuBtn.addEventListener('click', function () {
+              navLinks.classList.toggle('menu-active');
+            });
+
+            window.addEventListener('resize', function () {
+              if (window.innerWidth > 678) {
+                navLinks.classList.remove('menu-active');
+                navLinks.style.display = 'flex';
+              }
+            });
+          });
+
+        </script>
+
+        {{ end }}
+        <div class="ananke-socials">
+          {{ range $socials }}
+          {{ $rel := .rel | default "noopener" }}
+          <a href="{{ .url }}" target="_blank" rel="{{ $rel }}"
+            class="{{ .name }} ananke-social-link link-transition stackoverflow link dib z-999 pr1"
+            title="{{ .label }} {{ .name }}" aria-label="follow on {{ .label }}——Opens in a new window">
+            {{ with .icon }}
+            <span class="icon">{{ . }}</span>
+            {{ else }}
+            {{ .label }}
+            {{ end }}
+          </a>
+          {{ end }}
+        </div>
+      </div>
+    </nav>
+  </div>
+</nav>
