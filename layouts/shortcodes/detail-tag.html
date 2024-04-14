@@ -1,0 +1,12 @@
+{{ $summary:= .Get 0 }} 
+
+<details>
+    <summary>{{ $summary }}</summary>
+    
+    <div class="text-align: justify;">
+      
+      {{ .Inner | markdownify }}
+    
+    </div>
+    
+</details>

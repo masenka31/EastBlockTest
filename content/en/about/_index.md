@@ -8,44 +8,42 @@ featured_image = '/images/nationals2023.JPG'
 
 # Who are we?
 
-East Block is a Czech Women's Ultimate Frisbee Team. The players come mostly from the east bohemia region of Czech Republic: Hradec Králové, Slatiňany and Žďár nad Sázavou.
+East Block is a Czech Women's Ultimate Frisbee Team. The players come mostly from the east bohemia region of Czech Republic: Hradec Králové, Slatiňany and Žďár nad Sázavou. We are Czech national champions of 2023, both indoors and outdoors (and at juniors as well!). Since 2022, we are also competing at the EUCS (European Ultimate Club Season), fighting for top spots after finishing 6th last year.
 
 ## A little bit of history
 
 {{< text-justify >}}
 
-The team traces its origin to ... TODO: describe the origin.
+East Block women's team started its career as a strictly indoor team -- there were not enough of us to build a team to go play out on the grass. We waited a few seasons, establishing East Block as a easy-going, spirited and friendly team, getting some young faces to play with us in our characteristic blue jerseys with a white stripe. In winter 2016, things got moving, and in the spring of 2016, East Block held its first training camp and attended the Czech Nationals for the very first time.
 
-The team later joined forces with Chupacabras, Žďár nad Sázavou, bringing both experienced and talented young players. The team kept improving, taking silver medals at the national level on a regular basis. It was time for a little change.
-
-In 2022, we finally decided to push ourselves to dream big and started playing at the highest European level. Opening the team to some external help from FUJ, we got to the EUCF and played tough and close games even with the top teams.
-
-![](/images/eucf2023.JPG)
-
-The hype got real next year. With some new additions to the roster, the buzz has grown and we've been predicted to reach Top 4 at EUCF 2023. We fell short, losing the quarterfinals in universe point and later taking 6th place after Mooncup. Yet, we are strong, we are loud, we sing our lungs out and we are hungry for more. Getting ready for EUCF 2024, better than ever, more determined than ever, for the third time is the charm.
+![](/images/history/vbw_prvni_outdoor.jpg)
 
 {{< /text-justify >}}
 
-{{< timeline-full >}}
+{{< detail-tag "Read more" >}}
 
-{{< timeline-entry title="EUCF 2023" >}}
+Two years later, the first medals came -- two silvers from both indoor and outdoor championships. The ecstacy was real. We did it!
 
-Our road to EUCF 2023 started with just a decision: this year, we should do it. We took on Tomas as a coach, Ted as an assistent coach and BD became the captain for the last season.
+![](/images/history/mcr_indoor_2018_silver.jpeg)
 
-{{< /timeline-entry >}}
+The year 2018 also marks the first year East Block went international, securing the 5th place at Vienna Spring Break.
 
-{{< timeline-entry title="First outdoor gold medal" >}}
+![](/images/history/spring_break_2018.jpg)
 
-The roster for the 2023 Czech nationals did not look too superb. With a lot of players missing and a lot of injuries, two young players on their first ever 7v7 tournament, we had to work hard. But, we delivered. In the finals against 3SB, for the first time ever, we were able to beat them to the gold. In a tough came of only a handful of breaks, under the scorching sun, East Block prevailed and took the first outdoors gold to the collection.
+In the coming years, we secured more silver medals as well as some lower placements. After covid pandemic, East Block joined forces with the girls from Chupacabras, creating a partnership that is flourishing even in the mixed division. Three years, 2020, 2021, and 2022, marked the frustrating years of finishing second to 3SB on three national championships in a row. 
 
-{{< /timeline-entry >}}
+But! In 2022, we finally decided to push ourselves to dream big and started playing at the highest European level. Opening the team to some external help from FUJ, we got to the EUCF and played tough and close games even with the top teams. Even though we finished 13th (out of 24 teams), we did put our name on the radar of everyone playing the EUCS.
 
+![](/images/eucf2023.JPG)
 
-{{< timeline-entry title="The Beginning">}}
+Then, 2023 came. Finally, East Block managed to get not one, not two, but three gold medals: one at the indoor nationals, one at the outdoor nationals against the rivals from 3SB and last but not least, one at the junior nationals, proving to everyone that our young talent is to watch out for. Over 10 years of ups and downs, happy and sad tears, tournament after tournament, we slowly made it happend and the journey has been worth all the sweat and pain. We are even moving forward, chasing bigger highs, while carrying amazing memories with us at all times.
 
-The East Block team was founded in ....
+![](/images/nationals2023.JPG)
 
-{{< /timeline-entry >}}
+Predicted to become TOP 4 at EUCF, the pressure was building. Unfortunately, even after coming 2nd at Spring Invite, 1st at Vienna Spring Break and 1st at the regional qualitifaction, the pressure was too much and at the EUCF, we lost to Troubles in the quarterfinals. In the end, we secured an amazing 6th place.
 
+![](/images/history/eucf2023.png)
 
-{{< /timeline-full >}}
+Our journey does not end here. Both the national and european versions of the team are working hard to keep up with the best and fight for our spot at the top.
+
+{{< /detail-tag >}}
