@@ -27,8 +27,8 @@ East Block is a Czech Women's Ultimate Frisbee Team. The players come mostly fro
 
 {{< timeline-entry2 date="2023">}}
 
-- 🥇 **Czech national championship (indoor)**
-- 🥇 Czech national championship (outdoor)
+- 🥇 **Czech national championship (outdoor)**
+- 🥇 Czech national championship (indoor)
 - 🥇 Czech junior championship
 - 🥈 Spring Invite
 - 🥇 Vienna Spring Break

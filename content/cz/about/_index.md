@@ -28,8 +28,8 @@ Východní Blok (East Block) je český ženský ultimate frisbee tým. Hráčky
 
 {{< timeline-entry2 date="2023">}}
 
-- 🥇 **mistrovství ČR (indoor)**
-- 🥇 mistrovství ČR (outdoor)
+- 🥇 **mistrovství ČR (outdoor)**
+- 🥇 mistrovství ČR (indoor)
 - 🥇 juniorské mistrovství ČR
 - 🥈 Spring Invite
 - 🥇 Vienna Spring Break
