@@ -5,6 +5,6 @@
         <div>{{ .Get "date" }}</div>
     </div>
     <div class="description">
-        {{ .Inner }}
+        {{ .Inner | markdownify }}
     </div>
 </div>

@@ -42,3 +42,6 @@ Tohle je turnaj, pro který jsme dřely celou sezónu. Dokážeme překonat loň
 
 {{< /timeline2 >}}
 
+# Roster
+
+👀

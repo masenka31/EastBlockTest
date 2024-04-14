@@ -10,7 +10,86 @@ featured_image = '/images/nationals2023.JPG'
 
 Východní Blok (East Block) je český ženský ultimate frisbee tým. Hráčky pochází hlavně z oblasti východních Čech: Hradce Králové, Slatiňan a Žďáru na Sázavou. Jsme mistryně České republiky roku 2023, v hale, venku i v juniorské kategorii! Od roku 2022 také soutěžíme v Evropské lize o nejlepší umístění, abychom překonaly loňské umístění na 6. místě.
 
-## Trocha historie...
+{{< button "#úspěchy" "Úspěchy" >}}
+
+{{< button "#historie" "Historie" >}}
+
+
+## Úspěchy
+
+{{< timeline2 >}}
+
+{{< timeline-entry2 date="2024">}}
+
+- 🥇 juniorské mistrovství ČR
+- 🥉 mistrovství ČR (beach 🏖️)
+
+{{< /timeline-entry2>}}
+
+{{< timeline-entry2 date="2023">}}
+
+- 🥇 **mistrovství ČR (indoor)**
+- 🥇 mistrovství ČR (outdoor)
+- 🥇 juniorské mistrovství ČR
+- 🥈 Spring Invite
+- 🥇 Vienna Spring Break
+- 🥇 EUCR
+- **6. místo EUCF**
+
+{{< /timeline-entry2 >}}
+
+{{< timeline-entry2 date="2022">}}
+
+- 🥈 mistrovství ČR (outdoor)
+- 🥇 juniorské mistrovství ČR
+- **první evropská liga: 13. místo EUCF**
+
+{{< /timeline-entry2 >}}
+
+{{< timeline-entry2 date="2021">}}
+
+- 🥈 mistrovství ČR (outdoor)
+
+{{< /timeline-entry2 >}}
+
+{{< timeline-entry2 date="2020">}}
+
+- 🥈 mistrovství ČR (outdoor)
+- 🥈 mistrovství ČR (beach 🏖️)
+
+{{< /timeline-entry2 >}}
+
+{{< timeline-entry2 date="2019">}}
+
+- 🥉 mistrovství ČR (indoor)
+- 🥇 mistrovství ČR (beach 🏖️)
+
+{{< /timeline-entry2 >}}
+
+{{< timeline-entry2 date="2018">}}
+
+- 🥈 mistrovství ČR (outdoor)
+- 🥈 mistrovství ČR (indoor)
+- **první mezinárodní turnaj: 5. místo Vienna Spring Break**
+
+{{< /timeline-entry2 >}}
+
+{{< timeline-entry2 date="2016">}}
+
+- **první venkovní mistrovství ČR**
+
+{{< /timeline-entry2 >}}
+
+
+{{< timeline-entry2 date="2011">}}
+
+- **první halové mistrovství ČR**
+
+{{< /timeline-entry2 >}}
+
+{{< /timeline2 >}}
+
+## Historie
 
 {{< text-justify >}}
 

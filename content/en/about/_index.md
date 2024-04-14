@@ -8,9 +8,87 @@ featured_image = '/images/nationals2023.JPG'
 
 # Who are we?
 
-East Block is a Czech Women's Ultimate Frisbee Team. The players come mostly from the east bohemia region of Czech Republic: Hradec Králové, Slatiňany and Žďár nad Sázavou. We are Czech national champions of 2023, both indoors and outdoors (and at juniors as well!). Since 2022, we are also competing at the EUCS (European Ultimate Club Season), fighting for top spots after finishing 6th last year.
+East Block is a Czech Women's Ultimate Frisbee Team. The players come mostly from the east bohemia region of Czech Republic: Hradec Králové, Slatiňany and Žďár nad Sázavou. We are Czech national champions of 2023, both indoors and outdoors (and at juniors as well). Since 2022, we are also competing at the EUCS (European Ultimate Club Season), fighting for top spots after finishing 6th last year.
 
-## A little bit of history
+{{< button "#achievements" "Achievements" >}}
+
+{{< button "#a-little-bit-of-history" "History" >}}
+
+## Achievements
+
+{{< timeline2 >}}
+
+{{< timeline-entry2 date="2024">}}
+
+- 🥇 Czech junior championship
+- 🥉 Czech national championship (beach 🏖️)
+
+{{< /timeline-entry2>}}
+
+{{< timeline-entry2 date="2023">}}
+
+- 🥇 **Czech national championship (indoor)**
+- 🥇 Czech national championship (outdoor)
+- 🥇 Czech junior championship
+- 🥈 Spring Invite
+- 🥇 Vienna Spring Break
+- 🥇 EUCR
+- **6th place EUCF**
+
+{{< /timeline-entry2 >}}
+
+{{< timeline-entry2 date="2022">}}
+
+- 🥈 Czech national championship (outdoor)
+- 🥇 Czech junior championship
+- **first appearance at european league: 13th place EUCF**
+
+{{< /timeline-entry2 >}}
+
+{{< timeline-entry2 date="2021">}}
+
+- 🥈 Czech national championship (outdoor)
+
+{{< /timeline-entry2 >}}
+
+{{< timeline-entry2 date="2020">}}
+
+- 🥈 Czech national championship (outdoor)
+- 🥈 Czech national championship (beach 🏖️)
+
+{{< /timeline-entry2 >}}
+
+{{< timeline-entry2 date="2019">}}
+
+- 🥉 Czech national championship (indoor)
+- 🥇 Czech national championship (beach 🏖️)
+
+{{< /timeline-entry2 >}}
+
+{{< timeline-entry2 date="2018">}}
+
+- 🥈 Czech national championship (outdoor)
+- 🥈 Czech national championship (indoor)
+- **first international tournament: 5th place at Vienna Spring Break**
+
+{{< /timeline-entry2 >}}
+
+{{< timeline-entry2 date="2016">}}
+
+- **first outdoor tournament**
+
+{{< /timeline-entry2 >}}
+
+
+{{< timeline-entry2 date="2011">}}
+
+- **first indoor tournament**
+
+{{< /timeline-entry2 >}}
+
+{{< /timeline2 >}}
+
+## History
 
 {{< text-justify >}}
 

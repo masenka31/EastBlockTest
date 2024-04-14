@@ -1,0 +1,6 @@
+{{ $id:= .Get 0 }}
+{{ $name:= .Get 1 }}
+
+<a {{ printf "href=%q" $id | safeHTMLAttr }} class="btn">
+    {{ $name }}
+</a>

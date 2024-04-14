@@ -116,6 +116,7 @@ $timeline-color2: #17c728;
 // Buttons
 .btn {
 	padding: 5px 15px;
+	margin: 10px;
 	text-decoration: none;
 	background: transparent;
 	border: 2px solid lighten($primary-color, 10%);
@@ -173,6 +174,7 @@ $timeline-color2: #17c728;
 	border-left: 2px solid $primary-color;
 	padding: 0 20px;
 	margin-left: 150px;
+	margin-bottom: 4rem;
 
 	@media (max-width: 768px) {
 		margin-left: 0;

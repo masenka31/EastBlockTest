@@ -84,6 +84,7 @@
 
 .btn {
   padding: 5px 15px;
+  margin: 10px;
   text-decoration: none;
   background: transparent;
   border: 2px solid #00136f;
@@ -134,7 +135,8 @@
 #timeline2 {
   border-left: 2px solid #000A3C;
   padding: 0 20px;
-  margin-left: 150px; }
+  margin-left: 150px;
+  margin-bottom: 4rem; }
   @media (max-width: 768px) {
     #timeline2 {
       margin-left: 0;
