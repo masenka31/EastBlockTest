@@ -12,7 +12,7 @@ East Block is a Czech Women's Ultimate Frisbee Team. The players come mostly fro
 
 {{< button "#achievements" "Achievements" >}}
 
-{{< button "#a-little-bit-of-history" "History" >}}
+{{< button "#history" "History" >}}
 
 ## Achievements
 
