@@ -8,7 +8,7 @@ featured_image = '/images/nationals2023.JPG'
 
 # Kdo jsme?
 
-Východní Blok (East Block) je český ženský ultimate frisbee tým. Hráčky pochází hlavně z oblasti východních Čech: Hradce Králové, Slatiňan a Žďáru na Sázavou. Jsme mistrině České republiky roku 2023, v hale, venku i v juniorské kategorii! Od roku 2022 také soutěžíme v Evropské lize o nejlepší umístění, abychom překonaly loňské umístění na 6. místě.
+Východní Blok (East Block) je český ženský ultimate frisbee tým. Hráčky pochází hlavně z oblasti východních Čech: Hradce Králové, Slatiňan a Žďáru na Sázavou. Jsme mistryně České republiky roku 2023, v hale, venku i v juniorské kategorii! Od roku 2022 také soutěžíme v Evropské lize o nejlepší umístění, abychom překonaly loňské umístění na 6. místě.
 
 ## Trocha historie...
 
