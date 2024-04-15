@@ -223,6 +223,8 @@ $timeline-color2: #17c728;
 		left: -130px;
 		top: 0;
 		font-size: 1rem;
+		color: $primary-color;
+		font-weight: 450;
 
 		.title {
 			color: $primary-color;
@@ -236,6 +238,11 @@ $timeline-color2: #17c728;
 
 	.description {
 		font-size: 0.95rem;
+	}
+
+	ul {
+		list-style-type: none;
+		text-align: left;
 	}
 }
 
@@ -340,4 +347,36 @@ $textColor: white;
 
 .link-transition:hover .new-window {
 	opacity: 1;
+}
+
+/* BACK TO TOP */
+
+html {
+	scroll-behavior: smooth;
+}
+
+.back-to-top {
+	position: right;
+	background-color: $blue;
+	border-radius: 0.75rem;
+	padding: 0.5rem;
+	transition: 0.2s ease-out;
+	// align-items: right;
+	// justify-content: right;
+	display: inline-flex;
+	text-decoration: none;
+	color: $bgColor;
+}
+
+.back-to-top span {
+	color: $bgColor;
+	font-size: 1rem;
+	transition: 0.2s ease-out;
+}
+
+.back-to-top:hover {
+	background-color: $blue;
+}
+.back-to-top:hover span {
+	transform: translateY(-4px);
 }

@@ -20,11 +20,15 @@ DefaultContentLanguage = "en"
     title = "East Block"
     weight = 1
     contentDir = "content/en"
+    [languages.en.params]
+       read_more_copy = "read more"
     # languageDirection = 'rtl' for Right-To-Left languages
   [languages.cz]
     title = "Východní Blok"
     weight = 2
     contentDir = "content/cz"
+    [languages.cz.params]
+       read_more_copy = "čti dál"
 
 
 # for brands

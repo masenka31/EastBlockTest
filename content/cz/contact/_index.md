@@ -6,7 +6,7 @@ draft = false
 featured_image = '/images/nationals2023.JPG'
 +++
 
-## Kontaky 
+## Chceš se s námi spojit? 
 
 {{< left-align >}}
 

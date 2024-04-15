@@ -24,6 +24,6 @@
 
 [[main]]
   identifier = "contact/_index"
-  name = "Kontakty"
+  name = "Kontakt"
   pageRef = "/contact"
   weight = 6

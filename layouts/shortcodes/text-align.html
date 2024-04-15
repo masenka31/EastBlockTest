@@ -1,0 +1,5 @@
+{{ $style:= .Get 0}}
+
+<div {{ printf "style=%q" $style | safeHTMLAttr }}>
+    {{ .Inner | markdownify }}
+</div>

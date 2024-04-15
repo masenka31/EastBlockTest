@@ -10,9 +10,23 @@ featured_image = '/images/nationals2023.JPG'
 
 East Block is a Czech Women's Ultimate Frisbee Team. The players come mostly from the east bohemia region of Czech Republic: Hradec Králové, Slatiňany and Žďár nad Sázavou. We are Czech national champions of 2023, both indoors and outdoors (and at juniors as well). Since 2022, we are also competing at the EUCS (European Ultimate Club Season), fighting for top spots after finishing 6th last year.
 
+{{< button "#goals" "Goals" >}}
+
 {{< button "#achievements" "Achievements" >}}
 
 {{< button "#history" "History" >}}
+
+## Goals
+
+{{< text-align "font-size: 1.15rem; text-align: justify;" >}}
+
+When East Block started, we had no idea how far we can go. Now we know that only sky is the limit. Our first goal has already been achieved: we have become the Czech national champions. So, what next?
+
+**We are on a journey to establish East Block as a TOP European team.**
+
+To show our commitment, we have hired a professional coach for the 2024 European season, Valerio Iani. But, the european team is not everything. We are working hard to improve as individual players and as a team. Most of our players are part of the Czech national team, both senior and junior. We are also super excited to develop young players and continue to win Czech junior championships in the coming years.
+
+{{< /text-align >}}
 
 ## Achievements
 
@@ -33,7 +47,7 @@ East Block is a Czech Women's Ultimate Frisbee Team. The players come mostly fro
 - 🥈 Spring Invite
 - 🥇 Vienna Spring Break
 - 🥇 EUCR
-- **6th place EUCF**
+- 💙 **6th place EUCF**
 
 {{< /timeline-entry2 >}}
 
@@ -41,7 +55,7 @@ East Block is a Czech Women's Ultimate Frisbee Team. The players come mostly fro
 
 - 🥈 Czech national championship (outdoor)
 - 🥇 Czech junior championship
-- **first appearance at european league: 13th place EUCF**
+- 💙 **first appearance at european league: 13th place EUCF**
 
 {{< /timeline-entry2 >}}
 
@@ -69,36 +83,38 @@ East Block is a Czech Women's Ultimate Frisbee Team. The players come mostly fro
 
 - 🥈 Czech national championship (outdoor)
 - 🥈 Czech national championship (indoor)
-- **first international tournament: 5th place at Vienna Spring Break**
+- 💙 **first international tournament: 5th place at Vienna Spring Break**
 
 {{< /timeline-entry2 >}}
 
 {{< timeline-entry2 date="2016">}}
 
-- **first outdoor tournament**
+- 💙 **first outdoor tournament**
 
 {{< /timeline-entry2 >}}
 
 
 {{< timeline-entry2 date="2011">}}
 
-- **first indoor tournament**
+- 💙 **first indoor tournament**
 
 {{< /timeline-entry2 >}}
 
 {{< /timeline2 >}}
 
+---
+
+{{< back-to-top-button >}}
+
+---
+
 ## History
 
-{{< text-justify >}}
+{{< text-align "font-size: 1.15rem; text-align: justify;" >}}
 
 East Block women's team started its career as a strictly indoor team -- there were not enough of us to build a team to go play out on the grass. We waited a few seasons, establishing East Block as a easy-going, spirited and friendly team, getting some young faces to play with us in our characteristic blue jerseys with a white stripe. In winter 2016, things got moving, and in the spring of 2016, East Block held its first training camp and attended the Czech Nationals for the very first time.
 
 ![](/images/history/vbw_prvni_outdoor.jpg)
-
-{{< /text-justify >}}
-
-{{< detail-tag "Read more" >}}
 
 Two years later, the first medals came -- two silvers from both indoor and outdoor championships. The ecstacy was real. We did it!
 
@@ -124,4 +140,6 @@ Predicted to become TOP 4 at EUCF, the pressure was building. Unfortunately, eve
 
 Our journey does not end here. Both the national and european versions of the team are working hard to keep up with the best and fight for our spot at the top.
 
-{{< /detail-tag >}}
+{{< /text-align >}}
+
+{{< back-to-top-button >}}

@@ -10,10 +10,25 @@ featured_image = '/images/nationals2023.JPG'
 
 Východní Blok (East Block) je český ženský ultimate frisbee tým. Hráčky pochází hlavně z oblasti východních Čech: Hradce Králové, Slatiňan a Žďáru na Sázavou. Jsme mistryně České republiky roku 2023, v hale, venku i v juniorské kategorii! Od roku 2022 také soutěžíme v Evropské lize o nejlepší umístění, abychom překonaly loňské umístění na 6. místě.
 
+{{< button "#cíle" "Cíle" >}}
+
 {{< button "#úspěchy" "Úspěchy" >}}
 
 {{< button "#historie" "Historie" >}}
 
+<!-- {{< back-to-top "cz" >}} -->
+
+## Cíle
+
+{{< text-align "font-size: 1.15rem; text-align: justify;" >}}
+
+Na začátku asi nikdo netušil, jak daleko se můžeme jako tým dostat. Teď už víme, že limit neexistuje. Náš první velký cíl jsme splnily loni: vyhrály jsme venkovní mistrovství České republiky. Ale co dál?
+
+**Pracujeme na tom, aby se Východní blok zapsal jako jeden z nejlepších evropských ženských týmů.**
+
+Abychom ukázaly, že to myslíme vážně, spolupracujeme pro rok 2024 s profesionálním coachem Valeriem Iani. Ale evropský tým samozřejmě není všechno. Děláme vše proto, abychom se rozvíjely individuálně, i jako tým. Většina hráček je součástí národních reprezentací -- seniorské i juniorské. Spoustu úsilí chceme věnovat i rozvoji mladých holek a pokračovat ve šňůře vítězství juniorského mistrovství ČR i v dalších letech.
+
+{{< /text-align >}}
 
 ## Úspěchy
 
@@ -34,7 +49,7 @@ Východní Blok (East Block) je český ženský ultimate frisbee tým. Hráčky
 - 🥈 Spring Invite
 - 🥇 Vienna Spring Break
 - 🥇 EUCR
-- **6. místo EUCF**
+- 💙 **6. místo EUCF**
 
 {{< /timeline-entry2 >}}
 
@@ -42,7 +57,7 @@ Východní Blok (East Block) je český ženský ultimate frisbee tým. Hráčky
 
 - 🥈 mistrovství ČR (outdoor)
 - 🥇 juniorské mistrovství ČR
-- **první evropská liga: 13. místo EUCF**
+- 💙 **první evropská liga: 13. místo EUCF**
 
 {{< /timeline-entry2 >}}
 
@@ -70,36 +85,38 @@ Východní Blok (East Block) je český ženský ultimate frisbee tým. Hráčky
 
 - 🥈 mistrovství ČR (outdoor)
 - 🥈 mistrovství ČR (indoor)
-- **první mezinárodní turnaj: 5. místo Vienna Spring Break**
+- 💙 **první mezinárodní turnaj: 5. místo Vienna Spring Break**
 
 {{< /timeline-entry2 >}}
 
 {{< timeline-entry2 date="2016">}}
 
-- **první venkovní mistrovství ČR**
+- 💙 **první venkovní mistrovství ČR**
 
 {{< /timeline-entry2 >}}
 
 
 {{< timeline-entry2 date="2011">}}
 
-- **první halové mistrovství ČR**
+- 💙 **první halové mistrovství ČR**
 
 {{< /timeline-entry2 >}}
 
 {{< /timeline2 >}}
 
+---
+
+{{< back-to-top-button >}}
+
+---
+
 ## Historie
 
-{{< text-justify >}}
+{{< text-align "font-size: 1.15rem; text-align: justify;" >}}
 
 Východní blok začínal jako čistě halový tým -- nebylo nás dost na to, abychom mohly hrát venku na trávě. Po několika sezónách, kdy se Blok ukázal jako přátelský a spiritový tým, se podařilo nabral i několik nových mladých a šikovných hráček. V zimě rolu 2016 se události daly do pohybu, uspořádalo se první soustředění a holky z Bloku se poprvé postavily na hřiště venku na trávě na mistrovství ČR.
 
 ![](/images/history/vbw_prvni_outdoor.jpg)
-
-{{< /text-justify >}}
-
-{{< detail-tag "Číst dál" >}}
 
 O dva roky později přišly první medaile -- stříbro venku i v hale. Radost byla obrovská. Konečně se to podařilo!
 
@@ -125,4 +142,6 @@ Na evropské lize nás komentátoři predikovali na top 4 a tlak tak nebyl vůbe
 
 Naše cesta tady nekončí, spíše začíná. Jak na národní tak i mezinárodní scéně nás čeká spousta práce i zábavy. Vy můžete být u toho a jak se Východní Blok dostává na vrchol.
 
-{{< /detail-tag >}}
+{{< /text-align >}}
+
+{{< back-to-top-button >}}
