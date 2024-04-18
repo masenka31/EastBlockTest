@@ -180,8 +180,6 @@
       #timeline2 .info {
         position: static;
         margin-bottom: 0.8rem; } }
-  #timeline2 .description {
-    font-size: 0.95rem; }
   #timeline2 ul {
     list-style-type: none;
     text-align: left; }

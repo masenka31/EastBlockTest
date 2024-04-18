@@ -6,7 +6,7 @@ featured_image = "/images/juniors2024.jpeg"
 tags = ['2024', 'czech-team']
 +++
 
-Východní Blok je znovu zlatý na juniorském mistrovství ČR! Áčko vyhrálo všechny zápasy a holy potvrdily dominanci v juniorské women kategorii, když se staly mistryněmi potřetí v řadě.
+Východní Blok je znovu zlatý na juniorském mistrovství ČR! Áčko vyhrálo všechny zápasy a holky potvrdily dominanci v juniorské women kategorii, když se staly mistryněmi potřetí v řadě.
 
 <!--more-->
 

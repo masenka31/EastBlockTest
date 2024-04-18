@@ -16,8 +16,6 @@ Východní Blok (East Block) je český ženský ultimate frisbee tým. Hráčky
 
 {{< button "#historie" "Historie" >}}
 
-<!-- {{< back-to-top "cz" >}} -->
-
 ## Cíle
 
 {{< text-align "font-size: 1.15rem; text-align: justify;" >}}

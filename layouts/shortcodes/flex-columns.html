@@ -1,0 +1,12 @@
+<!-- flex-columns.html -->
+<!-- Works only for markdown, but works. -->
+
+<div class="flex flex-column flex-row-l items-center pt3 pb3">
+
+    {{- $cols := split .Inner "<--->" }}
+    {{- range $index, $col := $cols }}
+        <div class="blah w-90-ns w-100 pl4-l pr4-l pt2">
+            {{ $col | safeHTML | markdownify }}
+        </div>
+    {{- end }}
+</div>

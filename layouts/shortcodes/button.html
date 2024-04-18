@@ -1,6 +1,13 @@
 {{ $id:= .Get 0 }}
 {{ $name:= .Get 1 }}
+{{ $url:= .Get 2}}
 
+{{ if eq $url ""}}
 <a {{ printf "href=%q" $id | safeHTMLAttr }} class="btn">
     {{ $name }}
 </a>
+{{ else }}
+<a href={{ urls.AbsLangURL $url }} class="btn">
+    {{ $name }}
+</a>
+{{ end }}

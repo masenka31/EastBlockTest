@@ -8,7 +8,7 @@ featured_image = '/images/nationals2023.JPG'
 
 # Who are we?
 
-East Block is a Czech Women's Ultimate Frisbee Team. The players come mostly from the east bohemia region of Czech Republic: Hradec Králové, Slatiňany and Žďár nad Sázavou. We are Czech national champions of 2023, both indoors and outdoors (and at juniors as well). Since 2022, we are also competing at the EUCS (European Ultimate Club Season), fighting for top spots after finishing 6th last year.
+East Block is a Czech Women's Ultimate Frisbee Team. The players come mostly from the east bohemia region of Czech Republic: Hradec Králové, Slatiňany and Žďár nad Sázavou. We are Czech national champions of 2023, both indoors and outdoors (and at juniors as well). Since 2022, we are also competing at the [EUCS (European Ultimate Club Season)](https://eucs.ultimatefederation.eu/), fighting for top spots after finishing 6th last year.
 
 {{< button "#goals" "Goals" >}}
 
@@ -93,7 +93,6 @@ To show our commitment, we have hired a professional coach for the 2024 European
 
 {{< /timeline-entry2 >}}
 
-
 {{< timeline-entry2 date="2011">}}
 
 - 💙 **first indoor tournament**
@@ -101,8 +100,6 @@ To show our commitment, we have hired a professional coach for the 2024 European
 {{< /timeline-entry2 >}}
 
 {{< /timeline2 >}}
-
-{{< back-to-top-button >}}
 
 ## History
 

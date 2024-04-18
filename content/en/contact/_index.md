@@ -35,11 +35,15 @@ featured_image = '/images/nationals2023.JPG'
 
 ## Wanna join the team?
 
+**European team**
+
 The tryout call for the european team is closed already as we've had our first tryouts with all players and our new coaches.
 
 Want to play with us next season? Follow us on Instagram, or get in touch privately with the captains. We will publish a short questionaire after the season where you can apply :)
 
-If you want to train with us, you can do so either in Žďár nad Sázavou with [Chupacabras](https://chupacabras.cz/treninky/) or in Slatiňany with [Chlupatá žába](https://www.instagram.com/chlupatazaba.ultimate/).
+**Czech team**
+
+If you want to train with us, you can do so either in Žďár nad Sázavou with [Chupacabras](https://chupacabras.cz/treninky/) or in Slatiňany with [Chlupatá žába](https://www.instagram.com/chlupatazaba.ultimate/). Go to their respective pages to learn more about the teams and when and where they are currently training. We will be glad to have you!
 
 ![](/images/celebration.JPG)
 
@@ -51,4 +55,14 @@ If you want to become a sponsor, reach out to us on email: [eastblockultimate@gm
 
 If you want to donate, you can do so using this QR code. Our bank account is public, so you can see your donation up [here](https://ib.fio.cz/ib/transparent?a=2002285416) right away 🚀
 
-Thank you!
+🤗 Thank you! 🤗
+
+{{< detail-tag "show QR code" >}}
+
+Payment details:
+- IBAN: CZ1220100000002002285416
+- variable symbol: 0001
+
+![](/images/qr/qr_english.jpeg)
+
+{{< /detail-tag >}}
