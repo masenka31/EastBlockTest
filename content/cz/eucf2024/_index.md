@@ -6,7 +6,11 @@ draft = false
 featured_image = '/images/nationals2023.JPG'
 +++
 
-# Turnaje
+Loni jsme skončily na 6. místě. Teď jsme zpátky, s novým koučem i novými tvářemi v sestavě, a míříme jen výš a výš.
+
+## Turnaje
+
+Letos nás můžeš vidět na následujících turnajích:
 
 {{< timeline2 >}}
 
@@ -42,6 +46,8 @@ Tohle je turnaj, pro který jsme dřely celou sezónu. Dokážeme překonat loň
 
 {{< /timeline2 >}}
 
-# Roster
+## Roster
 
 👀
+
+Finální roster ještě nemáme. Chceš jako první vědět, kdo bude v sestavě? Sleduj nás na Instagramu [@eb_ultimate](https://www.instagram.com/eb_ultimate/).

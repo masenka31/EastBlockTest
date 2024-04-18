@@ -5,7 +5,11 @@ draft = false
 featured_image = '/images/nationals2023.JPG'
 +++
 
-# Tournaments
+After finishing 6th last year, we are back! Ready to roll with a new coach and a polished roster, our spirits are high.
+
+## Tournaments
+
+You can see us on the following tournaments this year:
 
 {{< timeline2 >}}
 
@@ -41,6 +45,8 @@ This is it. Can we beat our previous high and become a TOP 5 European team?
 
 {{< /timeline2 >}}
 
-# Roster
+## Roster
 
 👀
+
+The finals roster is not yet known. If you want to be the first to know when the roster is announced, follow us on Instagram at [@eb_ultimate](https://www.instagram.com/eb_ultimate/).

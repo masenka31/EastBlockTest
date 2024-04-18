@@ -102,11 +102,7 @@ To show our commitment, we have hired a professional coach for the 2024 European
 
 {{< /timeline2 >}}
 
----
-
 {{< back-to-top-button >}}
-
----
 
 ## History
 

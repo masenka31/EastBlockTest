@@ -1,3 +1,5 @@
+{{ $language:= site.LanguageCode }}
+
 <footer class="{{ .Site.Params.background_color_class | default " bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
     <div class="flex justify-between items-center center">
         <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="{{ .Site.Home.Permalink }}">
@@ -6,4 +8,35 @@
         <div>{{ partial "cau-frisbee.html" . }}</div>
         <div>{{ partial "social-follow.html" . }}</div>
     </div>
+
+    {{ if eq $language "cz"}}
+
+    <div class="flex justify-between items-center center">
+        <a class="f5 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="mailto:eastblockultimate@gmail.com">
+            eastblockultimate@gmail.com
+        </a>
+        <a class="f5 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="{{ .Site.Home.Permalink }}">
+            Staň se sponsorem
+        </a>
+        <a class="f5 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="{{ .Site.Home.Permalink }}">
+            Přidej se k týmu
+        </a>
+    </div>
+    
+    {{ else }}
+
+    <div class="flex justify-between items-center center">
+        <a class="f5 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="mailto:eastblockultimate@gmail.com">
+            eastblockultimate@gmail.com
+        </a>
+        <a class="f5 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="{{ .Site.Home.Permalink }}">
+            Become a sponsor
+        </a>
+        <a class="f5 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="{{ .Site.Home.Permalink }}">
+            Join the team
+        </a>
+    </div>
+    
+    {{ end }}
+
 </footer>

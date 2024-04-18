@@ -8,7 +8,7 @@ featured_image = '/images/nationals2023.JPG'
 
 ## Chceš se s námi spojit? 
 
-{{< left-align >}}
+{{< text-align "text-align: left;">}}
 
 **East Block tým**
 
@@ -28,7 +28,7 @@ featured_image = '/images/nationals2023.JPG'
 **Lukáš Barborik**
 - Instagram: [@lukasbarborik](https://www.instagram.com/lukasbarborik)
 
-{{< /left-align >}}
+{{< /text-align >}}
 
 ![](/images/hug.JPG)
 
