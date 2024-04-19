@@ -8,25 +8,25 @@ menu = "Domů"
 
 <!-- # East Block Test Website -->
 
+## Ahoj a vítej u nás!
+
 {{< flex-columns >}}
 
-# Vítejte!
-
-Jsme **East Block** -- český ženský ultimate frisbee tým, mistryně České republiky a zároveň bojujeme na evropské scéně v rámci EUCF.
+Jsme **East Block** -- český ženský ultimate frisbee tým, mistryně České republiky a zároveň tým bojující o přední příčky na evropské scéně v rámci Evropské ligy.
 
 <--->
 
-![](/images/nationals2023.JPG)
+{{< figure src="/images/nationals2023.JPG" class="db-l dn w-80 center">}}
 
 {{< /flex-columns >}}
 
 {{< flex-columns >}}
 
-![](/images/logo_blue_wo_bg_horizontal.png)
+{{< figure src="/images/logo_blue_wo_bg_horizontal.png" class="pb3 w-70 center">}}
 
 <--->
 
-V našem znaku najdete rysa, na hřišti nás uslyšíte zpívat [We Are Number One](https://www.youtube.com/watch?v=PfYnvDL0Qcw) z Lazy Town a můžete si být jistí, že se vždy snažíme být lepší než kdy dřív. Jestli chcete sledovat naši cestu za top umístěními, sledujte nás na Instagramu [@eb_ultimate](www.instagram.com/eb_ultimate).
+V našem znaku najdeš rysa, na hřišti nás uslyšíš zpívat [We Are Number One](https://www.youtube.com/watch?v=PfYnvDL0Qcw) z Lazy Town a můžeš nám věřit, že makáme na tom být ty nejlepší z nejlepších. Jestli chceš sledovat naši cestu za top umístěními, sleduj nás na Instagramu [@eb_ultimate](www.instagram.com/eb_ultimate).
 
 
 {{< /flex-columns >}}
@@ -34,9 +34,9 @@ V našem znaku najdete rysa, na hřišti nás uslyšíte zpívat [We Are Number 
 {{< flex-columns >}}
 
 
-## Chcete nás vidět hrát?
+## Chceš nás vidět hrát?
 
-V loňském roce jsme se na streamu ulti.tv objevily hned několikrát. Můžete se podívat třeba na finále Spring Invite proti BDF Shout, momentálními šampionkami na evropské scéně.
+V loňském roce jsme se na streamu ulti.tv objevily hned několikrát. Můžeš mrknout třeba na finále Spring Invite proti BDF Shout, momentálními šampionkami na evropské scéně.
 
 <--->
     
@@ -48,7 +48,7 @@ V loňském roce jsme se na streamu ulti.tv objevily hned několikrát. Můžete
 
 {{< flex-columns >}}
 
-Po stránkách můžete volně brouzdat - dozvědět se víc o týmu jako takovém, podívat se na naše cíle i úspěchy a sledovat naši cestu za co nejlepším umístěním na evropské ultimate frisbee scéně.
+Po stránkách můžeš volně brouzdat - dozvědět se víc o týmu jako takovém, podívat se na naše cíle i úspěchy a sledovat naši cestu za top umístěním na evropské ultimate frisbee scéně.
 
 <--->
 

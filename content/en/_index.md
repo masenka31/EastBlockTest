@@ -8,25 +8,25 @@ menu = "Home"
 
 <!-- # East Block Test Website -->
 
-{{< flex-columns >}}
-
 # Hello and welcome!
 
-We are **East Block** -- a Czech women's ultimate frisbee team, national champions and contenders at the highest level of European ultimate at EUCF.
+{{< flex-columns >}}
+
+We are **East Block** -- a Czech women's ultimate frisbee team, national champions and contenders for top stop at the highest level of European ultimate at EUCF.
 
 <--->
 
-![](/images/nationals2023.JPG)
+{{< figure src="/images/nationals2023.JPG" class="db-l dn w-80 center">}}
 
 {{< /flex-columns >}}
 
 {{< flex-columns >}}
 
-![](/images/logo_blue_wo_bg_horizontal.png)
+{{< figure src="/images/logo_blue_wo_bg_horizontal.png" class="pb3 w-70 center">}}
 
 <--->
 
-Our spirit animal is the lynx, our anthem Lazy Town's [We Are Number One](https://www.youtube.com/watch?v=PfYnvDL0Qcw) and our mindset is always set to be better than before. If you want to follow our journey to becoming Number One, follow us on [Instagram](https://www.instagram.com/eb_ultimate).
+Our spirit animal is the lynx, our anthem Lazy Town's [We Are Number One](https://www.youtube.com/watch?v=PfYnvDL0Qcw) and our mindset is always set to be better than before. If you want to follow our journey to becoming Number One, follow us on Instagram [@eb_ultimate](https://www.instagram.com/eb_ultimate).
 
 {{< /flex-columns >}}
 
@@ -52,11 +52,11 @@ Feel free to roam around, learn more about the team, the goals and achievements 
 
 {{< button "" "Who are we?" "about">}}
 
+{{< button "" "What is ultimate frisbee?" "https://www.caufrisbee.cz/frisbee-je-cool" >}}
+
 {{< button "" "Goals & achievements" "about/#goals">}}
 
 {{< button "" "Road to EUCF 2024" "eucf2024">}}
-
-{{< button "" "What is ultimate frisbee?" "https://www.caufrisbee.cz/frisbee-je-cool" >}}
 
 {{< button "" "Become a sponsor" "contact/#wanna-become-a-sponsor">}}
 

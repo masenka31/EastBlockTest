@@ -5,7 +5,7 @@
 
     {{- $cols := split .Inner "<--->" }}
     {{- range $index, $col := $cols }}
-        <div class="blah w-90-ns w-100 pl4-l pr4-l pt2">
+        <div class="blah w-90-l w-100 pl4-l pr4-l pt2">
             {{ $col | safeHTML | markdownify }}
         </div>
     {{- end }}
